@@ -35,7 +35,7 @@ An evaluation function based on material balance and piece-square tables is used
 ## 📈 Evaluation Criteria
 
 - **Performance Metrics**: Number of moves, decision time per move, win/loss against random player.
-- **Depth Variations**: Agents are tested with depths ranging from 2 to 4.
+- **Depth Variations**: Agents are tested with various depth values.
 - **Evaluation function**: Custom evaluation based on material value and piece-square positions.
 
 
