@@ -31,7 +31,7 @@ An evaluation function based on material balance and piece-square tables is used
 - Running these files is really simple—just upload the `.ipynb` files to Google Colab and execute them directly. After executing cell with import statements, kindly restart the session if prompted to and start execution from first cell. Modify the depth in function call to play_minimax_game to test for value of your choice.
 
 **AplhaBeta_on_chess**
-
+- Either upload the '.ipynb ' file into the colab or run natively, executing all the cells in the order will realise the results.
 ## 📈 Evaluation Criteria
 
 - **Performance Metrics**: Number of moves, decision time per move, win/loss against random player.
