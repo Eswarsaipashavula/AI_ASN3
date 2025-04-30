@@ -28,7 +28,7 @@ An evaluation function based on material balance and piece-square tables is used
 
 ## 🚀 How to Run
 **Minimax_on_chess**
-- Running these files is really simple—just upload the `.ipynb` files to Google Colab and execute them directly. After executing cell with import statements, kindly restart the session if prompted to. Modify the depth in function call to play_minimax_game to test for value of your choice.
+- Running these files is really simple—just upload the `.ipynb` files to Google Colab and execute them directly. After executing cell with import statements, kindly restart the session if prompted to and start execution from first cell. Modify the depth in function call to play_minimax_game to test for value of your choice.
 
 **AplhaBeta_on_chess**
 
